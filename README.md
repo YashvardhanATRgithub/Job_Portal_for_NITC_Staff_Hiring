@@ -168,4 +168,5 @@ Guidelines for coding standards, branching, and pull requests are documented in 
 
 ## 📄 License
 
-This project is currently intended for internal academic use. If you plan to reuse it outside the lab, please clarify licensing/attribution with the maintainers.
+This project is currently intended for internal academic use.
+
